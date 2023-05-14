@@ -1,0 +1,11 @@
+Country;Age;Gender;Symptoms;Experiencing_Symptoms;Severity;Contact
+China;23;1;Fever,Tiredness,Dry-Cough,Difficulty-in-Breathing,Sore-Throat;Pains,Nasal-Congestion,Runny-Nose,Diarrhea;1;1
+Italy;13;2;Fever,Tiredness,Dry-Cough,Difficulty-in-Breathing;Pains,Nasal-Congestion,Runny-Nose;2;2
+Iran;36;2;Fever,Tiredness,Dry-Cough;Pains,Nasal-Congestion;3;1
+Republic of Korean;30;1;Fever,Tiredness;Pains;0;1
+France;33;2;Fever;Nasal-Congestion,Runny-Nose,Diarrhea;2;2
+Spain;9;1;Tiredness,Dry-Cough,Difficulty-in-Breathing,Sore-Throat;Nasal-Congestion,Runny-Nose;2;2
+Germany;15;2;Tiredness,Dry-Cough,Difficulty-in-Breathing;Nasal-Congestion;0;1
+UAE;11;1;Tiredness,Dry-Cough;Runny-Nose,Diarrhea;3;1
+Other-EUR;33;2;Tiredness;Runny-Nose;1;2
+Other;13;1;Dry-Cough,Difficulty-in-Breathing,Sore-Throat;Diarrhea;0;1
